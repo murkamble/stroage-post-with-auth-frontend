@@ -1,0 +1,1 @@
+# stroage-post-with-auth-frontend
